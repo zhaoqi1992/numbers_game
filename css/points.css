@@ -1,0 +1,46 @@
+body {
+        position: absolute;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgb(255, 127, 127);
+        font-size: 62.5%;
+    }
+    a.button{
+       position: absolute;
+        text-align: center;
+        bottom: 10%;
+        left: 20%;
+        width: 60%;
+        color: #fff;
+        text-decoration: none;
+        font-size: 4em;
+        border: 3px solid #fff;
+    }
+    .points{
+    	text-align: center;
+    	position: absolute;
+    	color: #fff;
+    	width: 100%;
+        font-size: 4em;
+    }
+    .wrap{
+    	text-align: center;
+    	position: absolute;
+    	top: 10.5%;
+        height: 80%;
+        width: 80%;
+        margin: 0;
+        padding: 0;
+        left: 10%;
+    }
+    .final{
+    	position: absolute;
+    	top: 20%;
+        color: #fff;
+    	/*border: 1px solid #fff;*/
+    	width: 100%;
+    	height: 20%;
+    	font-size: 6em;
+    }

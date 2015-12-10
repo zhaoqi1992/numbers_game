@@ -1,0 +1,71 @@
+body {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 127, 127);
+    color: #fff;
+    font-size: 62.5%;
+}
+
+
+/*div.wrap {
+        position: absolute;
+        height: 80%;
+        width: 80%;
+        margin: 0;
+        padding: 0;
+        left: 10%;
+    }
+    */
+
+div#rules {
+    position: absolute;
+    text-align: center;
+    /* left: 9%;*/
+    width: 80%;
+    left: 10%;
+    font-size: 3em;
+    margin: 0;
+    bottom: 25%;
+}
+
+.timer {
+    position: absolute;
+    text-align: center;
+    font-size: 0.8em;
+    margin: 0;
+    bottom: 10%;
+    width: 60%;
+    left: 20%;
+    font-size: 2em;
+    text-decoration: none;
+    color: #fff;
+}
+
+div.numbers {
+        /*position: absolute;
+        left: 10%;
+        height: 40%;
+        width: 81.5%;
+        border: 2px solid #fff;
+        top: 5%;*/
+        position: absolute;
+        text-align: center;
+        font-weight: bold;
+        word-wrap: break-word;
+        /*border: 2px solid #fff;*/
+        top: 10%;
+        height: 30%;
+        width: 90%;
+        left: 5%;
+    }
+
+.numbers span {
+    position: relative;
+    text-align: justify;
+    top: 10%;
+    width: 100%;
+    font-size: 6em;
+}
